@@ -1,7 +1,7 @@
 {
-    "name": "Ultroid UserBot",
+    "name": "Zackzin Vfö",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://graph.org/file/031957757a4f6a5191040.jpg",
+    "logo": "https://imageup.me/6qj",
     "keywords": [
         "Telethon",
         "telegram",
@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TeamUltroid",
+    "repository": "Not Available🚀",
+    "Sub": "https://youtube.com/channel/UCgpji1WYjJWaGwr0s8CEteQ",
+    "success_url": "🚀",
     "stack": "container",
     "env": {
         "API_ID": {
